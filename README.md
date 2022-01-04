@@ -1,18 +1,18 @@
-# Title
+# The Spell Dean
 
-Simple (or clever and funny?) description
+Dean of grammer and spelling discipline.
 
 ## Table of Contents
 
-- [Background](#background)
+- [Why?](#Why?)
 
 - [Install](#install)
 
 - [Usage](#usage)
 
-## Background
+## Why?
 
-This is why this application exists.
+This code exists to correct your spelling errors when you type
 
 ## Install
 
